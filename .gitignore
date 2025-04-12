@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Python virtual environment
+venv/
+.env/
+ENV/
+env/
+.venv/
+
+# Python bytecode and other files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+Thumbs.db
